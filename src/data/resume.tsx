@@ -78,8 +78,7 @@ export const DATA = {
       badges: [],
       location: "Hybrid",
       title: "Full Stack Dev",
-      logoUrl:
-        "https://media.licdn.com/dms/image/v2/D560BAQEyhu147xFK7A/company-logo_200_200/B56ZfJ7zQXHoAI-/0/1751439588510?e=1757548800&v=beta&t=BacpqwniROOHVzfpc1WWVbM4sul01ObGSjsC4MdXlWU",
+      logoUrl: "/infinity.jpeg",
       start: "Aug 2025",
       end: "Present",
       description: "",
