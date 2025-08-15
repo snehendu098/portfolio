@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Snehendu Roy",
   initials: "SR",
-  url: "https://dillion.io",
+  url: "https://roydevelops.vercel.app/",
   location: "Kolkata, India",
   locationLink: "https://www.google.com/maps/place/kolkata",
   description: "Software Engineer trying to solve complex engineering problems",
@@ -109,7 +109,7 @@ export const DATA = {
   education: [
     {
       school: "Sister Nivedita University, New Town",
-      href: "https://uwaterloo.ca",
+      href: "https://www.snuniv.ac.in/",
       degree: "Bachelor of Technology in Computer Science",
       logoUrl: "/snu.png",
       start: "2024",
