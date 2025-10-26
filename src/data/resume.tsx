@@ -73,17 +73,6 @@ export const DATA = {
 
   work: [
     {
-      company: "Infinity Tech",
-      href: "https://www.linkedin.com/company/infinititech-partners/posts/?feedView=all",
-      badges: [],
-      location: "Hybrid",
-      title: "Full Stack Dev",
-      logoUrl: "/infinity.jpeg",
-      start: "Aug 2025",
-      end: "Present",
-      description: "",
-    },
-    {
       company: "Axicov",
       badges: [],
       href: "https://axicov.com",
@@ -91,6 +80,18 @@ export const DATA = {
       title: "CTO",
       logoUrl: "/axicov.png",
       start: "Feb 2025",
+      end: "Present",
+      description: "",
+    },
+
+    {
+      company: "Infinity Tech",
+      href: "https://www.linkedin.com/company/infinititech-partners/posts/?feedView=all",
+      badges: [],
+      location: "Hybrid",
+      title: "Full Stack Dev",
+      logoUrl: "/infinity.jpeg",
+      start: "Aug 2025",
       end: "Present",
       description: "",
     },
