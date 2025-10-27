@@ -12,9 +12,9 @@ export const DATA = {
     "I’m a full-stack developer and product builder passionate about decentralized technologies, AI, and real-world problem solving. My journey began by exploring how software can bring structure to chaos, and over time, I’ve focused that drive into building tools that empower users, automate intelligence, and uphold the principles of user ownership and transparency.",
   avatarUrl: "/me.png",
   skills: [
+    "Next.js",
     "React.js",
     "Express.js",
-    "Next.js",
     "TailwindCSS",
     "Typescript",
     "Node.js",
@@ -85,7 +85,7 @@ export const DATA = {
     },
 
     {
-      company: "Infinity Tech",
+      company: "Infinititech Partners",
       href: "https://www.linkedin.com/company/infinititech-partners/posts/?feedView=all",
       badges: [],
       location: "Hybrid",
@@ -152,9 +152,56 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Statik Uptime",
+      href: "https://statikuptime.xyz",
+      dates: "Sept 2025 - Present",
+      active: true,
+      description: "A distributed uptime monitoring network on the U2U chain",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "Cloudflare",
+        "Docker",
+        "Shell",
+        "Web Sockets",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://statikuptime.xyz",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/snehendu098/statik-uptime/",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/statik.jpeg",
+      video: "",
+    },
+    {
+      title: "Hrin Protocol",
+      href: "https://x.com/HrinProtocol",
+      dates: "Loops HH Delhi (Winner)",
+      active: true,
+      description:
+        "Contract less secure lending protol monitored by a NEAR shade agent deployed in a TEE",
+      technologies: ["Docker", "NextJs", "Hono", "Ethers", "Phala"],
+      image: "/hrin.jpg",
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/snehendu098/hrid-server",
+          icon: <Icons.github className="h-4 w-4" />,
+        },
+      ],
+    },
+
+    {
       title: "Litverse",
       href: "https://litverse.vercel.app/",
-      dates: "June 2023 - Present",
+      dates: "BNB Hack Winner",
       active: true,
       description:
         "Designed, developed and sold animated UI components for developers.",
@@ -200,6 +247,47 @@ export const DATA = {
     },
   ],
   hackathons: [
+    {
+      title: "VietBudl",
+      description:
+        "Built a distributed uptime monitoring network as a dePIN project",
+      location: "Online",
+      dates: "Aug 22 - Oct 18, 2025",
+      image: "/u2u.png",
+    },
+    {
+      title: "Algorand Regional Hack 2025 (Winner)",
+      description: "Built a realtime game with websockets, durable objects",
+      image: "/algohack.png",
+      location: "Kolkata",
+    },
+    {
+      title: "ETHGlobal Delhi 2025",
+      dates: "Sept 26 - Sept 28, 2025",
+      description:
+        "Tried to built the foundation of agentic finternet with an ai for lending, swapping, bridging cross chain assets",
+      image: "/ethglobal-delhi.png",
+    },
+    {
+      title: "Loops HH Delhi (Winner)",
+      dates: "Sept 21 - Sept 25, 2025",
+      location: "Delhi",
+      description:
+        "Built a cross chain contract less lending protocol using near shade agents and deployed it in a TEE",
+      image: "/loops.png",
+      links: [
+        {
+          title: "Hrin Protocol",
+          icon: <Icons.x className="h-4 2-4" />,
+          href: "https://x.com/HrinProtocol",
+        },
+        {
+          title: "Github Link",
+          icon: <Icons.github className="h-4 w-4" />,
+          href: "https://github.com/snehendu098/hrid-server",
+        },
+      ],
+    },
     {
       title: "Colosseum Breakout",
       dates: "Feb 9 - May 5, 2025",
