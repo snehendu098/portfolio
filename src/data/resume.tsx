@@ -9,7 +9,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/kolkata",
   description: "Software Engineer trying to solve complex engineering problems",
   summary:
-    "I’m a full-stack developer and product builder passionate about decentralized technologies, AI, and real-world problem solving. My journey began by exploring how software can bring structure to chaos, and over time, I’ve focused that drive into building tools that empower users, automate intelligence, and uphold the principles of user ownership and transparency.",
+    "I’m a full stack software engineer with a diverse skill set. I love to solve complex engineering problems and can ship products faster than speed of light. Building robust, scalable systems with clean code and good efficiency is something I love the most. Challenging problems are something I love to play with. Currently exploring applied AI and distributed systems.",
   avatarUrl: "/me.png",
   skills: [
     "Next.js",
